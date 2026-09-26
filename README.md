@@ -21,7 +21,5 @@ Laravel Sail と Docker を使って、Tutorial 9〜10 のハンズオンで使�
 
 ## 動作確認
 
-- Laravel
-  ブラウザで http://localhost にアクセスし、ウェルカムページが表示されれば、環境構築が成功していることになります。
-- phpMyAdmin
-  ブラウザで http://localhost:8080 にアクセスし、phpMyAdminの画面が表示され、laravelデータベースの確認ができれば大丈夫です。
+ブラウザで http://localhost にアクセスし、ウェルカムページが表示されれば、環境構築が成功していることになります。
+ブラウザで http://localhost:8080 にアクセスし、phpMyAdminの画面が表示され、laravelデータベースの確認ができれば大丈夫です。
